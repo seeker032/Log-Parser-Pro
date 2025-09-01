@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Student Name: Harvey Doctor Roxas
-# Student Number: 1062 6057
 
 # The script is encapsulated in an infinite while loop, which allows user termination by entering "-q." This loop also continues until the final output is shown.
 
