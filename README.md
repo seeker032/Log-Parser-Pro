@@ -45,7 +45,7 @@ A lightweight Bash script for parsing and filtering `.csv` log files. It extract
 
 ---
 
-📋 Step-by-Step Instructions
+## 📋 Intructions:
 
 ### 1. Prepare your log file
 
